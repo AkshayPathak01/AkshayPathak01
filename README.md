@@ -1,12 +1,5 @@
 ### Hola, I'm Akshay Pathak !👋  I'm Akshay Pathak
 
-
-**Akshaypathak01/Akshaypathak01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align="center"> <img src="hello.gif" alt="hello" /> </p>
-<h1 align="center">Hola ðŸ‘‹, I'm Akshay Pathak â­</h1>
-
-
-
 ## Short Summary:
 
 <b><i>I'm an Undergraduate Student currently undertaking a Bachelors in Computer Engineering from Amrutvahini College of Engineering Sangamner at 
