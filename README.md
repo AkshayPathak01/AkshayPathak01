@@ -5,13 +5,12 @@
 <p align="center"> <img src="hello.gif" alt="hello" /> </p>
 <h1 align="center">Hola ðŸ‘‹, I'm Akshay Pathak â­</h1>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ShripadCPawar.ShripadCPawar)
 
 
 ## Short Summary:
 
 <b><i>I'm an Undergraduate Student currently undertaking a Bachelors in Computer Engineering from Amrutvahini College of Engineering Sangamner at 
- Savitribai Phule Pune University. </i> <br/><b> <br>SE CGPA - 7.82 <br/>
+ Savitribai Phule Pune University. </i> <br/><b> <br>SE CGPA - 9.2 <br/>
 <br/> <b>I'm passionate about <b>Flutter Development<b/>.
 <br/>
 <br> - ðŸŒ± Iâ€™m currently learning and working on <b>Flutter Develpoment ðŸ“².</br>
