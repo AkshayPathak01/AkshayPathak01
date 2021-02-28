@@ -17,7 +17,6 @@
 
 ## Languages and Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="100" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="git" width="120" height="100"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySql" width="100" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="70" height="70"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="70"/> 
@@ -27,15 +26,12 @@
 
 
 
-## More About Me:
+### More About Me:
 
-
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaypathak01&layout=compact" alt="Akshaypathak01" />
+</a>
 <a href="https://github.com/Akshaypathak01/github-readme-stats">
- 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshaypathak01&show_icons=true&theme=radical&count_private=true" alt="Akshay_Pathak  github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshaypathak01&show_icons=true&theme=radical&count_private=true" alt="Akshay_pathak github stats" />
 </a>
 <br />
 <br />
-
-
