@@ -2,7 +2,7 @@
 
 ## Short Summary:
 
-<i>I'm an Undergraduate Student currently undertaking a <b>Bachelors in Computer Engineering<b> from Amrutvahini College of Engineering Sangamner at 
+<i>I'm an Undergraduate Student currently undertaking a <b>Bachelors in Computer Engineering <b> from Amrutvahini College of Engineering Sangamner at 
  Savitribai Phule Pune University. </i> <br/> <br><b>SE CGPA<b> - 9.2 <br/>
 <br/> <b>I'm passionate about <b>Flutter Development<b/>.
 <br/>
