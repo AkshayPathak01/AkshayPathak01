@@ -1,12 +1,15 @@
-### Hola, I'm Akshay Pathak !👋
+### Hi there, I'm Akshay Pathak !👋
 
 ## Short Summary:
 
 <i>I'm an Undergraduate Student currently undertaking a <b>Bachelors in Computer Engineering <b> from Amrutvahini College of Engineering Sangamner at 
- Savitribai Phule Pune University. </i> <br/> <br><b>SE CGPA<b> - 9.2 <br/>
-<br/> <b>I'm passionate about <b>Flutter Development<b/>.
+ Savitribai Phule Pune University. </i> <br/> 
+<br><b>SE CGPA<b> - 9.2 <br/>
+
 <br/>
 <br> - 🌱 I’m currently learning and working on <b>Flutter.</br>
+<br> - 🌱 I’m currently learning everything 🤣 <br>
+
  
  
 
@@ -35,3 +38,5 @@
 </a>
 <br />
 <br />
+
+
