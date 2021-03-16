@@ -8,7 +8,7 @@
  Savitribai Phule Pune University. </i> <br/> 
 <br><b>SE CGPA<b> - 9.2 <br/>
 <br> - 🌱 I’m currently learning and working on <b>Flutter.</br>
-<br> - 📫 How to reach me **akshaypathak1520@gmail.com**</br>
+<br> - 📫 How to reach me **pathak.akshay.1520@gmail.com**</br>
 <br> - 🌱 I’m currently learning everything 🤣 <br>
 
 ## Connect with me:
