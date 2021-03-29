@@ -6,7 +6,7 @@
 
 <i>I'm an Undergraduate Student currently undertaking a Bachelors in Computer Engineering from Amrutvahini College of Engineering Sangamner at 
  Savitribai Phule Pune University. </i> <br/> 
-<br><b>SE CGPA<b> - 9.2 <br/>
+<br><b>SE CGPA<b> - 9.1 <br/>
 <br> - 🌱 I’m currently learning and working on <b>Flutter.</br>
 <br> - 📫 How to reach me **pathak.akshay.1520@gmail.com**</br>
 <br> - 🌱 I’m currently learning everything 🤣 <br>
@@ -40,8 +40,6 @@
 <br />
 <br />
 
-<p align="center">𝕋𝕙𝕒𝕟𝕜𝕤 𝔽𝕠𝕣 𝕍𝕚𝕤𝕚𝕥𝕚𝕟𝕘 𝕄𝕪 ℙ𝕣𝕠𝕗𝕚𝕝𝕖</p>
-<p align="center">😊</p>
 
 
 
