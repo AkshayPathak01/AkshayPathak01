@@ -1,7 +1,7 @@
 ### Hi there, I'm Akshay 👋
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Akshaypathak01.Akshaypathak01)
-
+<img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" >
 <b> I'm a Passionate Programmer & Developer !</b>
 
 - 🔭 I’m currently working on few cool projects.
@@ -35,6 +35,8 @@
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <br />
 
+---
+
 <summary>:zap: <b>Github Stats</b></summary>
 <br>
 <p align = "center">
@@ -42,3 +44,5 @@
     <img alt="Akshaypathak01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akshaypathak01&show_icons=true&theme=tokyonight&line_height=40" />
     <img alt="Akshaypathak01's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaypathak01&theme=tokyonight" />
 </p>
+
+
