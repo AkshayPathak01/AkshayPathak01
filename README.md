@@ -1,5 +1,5 @@
 ### Hi there, I'm Akshay 👋
-<img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="400" >
+<img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="350" >
 
 <b> I'm a Passionate Programmer & Developer !</b>
 
