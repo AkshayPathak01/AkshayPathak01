@@ -43,4 +43,3 @@
     <img alt="Akshaypathak01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akshaypathak01&show_icons=true&theme=tokyonight&line_height=40" />
     <img alt="Akshaypathak01's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaypathak01&theme=tokyonight" />
 </p>
-
