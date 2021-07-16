@@ -39,7 +39,7 @@
 <summary>:zap: <b>Github Stats</b></summary>
 <br>
 <p align = "center">
-    <img alt="Akshaypathak01's Language" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaypathak01&theme=tokyonight" /><br>
-    <img alt="Akshaypathak01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akshaypathak01&show_icons=true&theme=tokyonight&line_height=40" />
-    <img alt="Akshaypathak01's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaypathak01&theme=tokyonight" />
+    <img alt="akshaypathak01's Language" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaypathak01&theme=tokyonight" /><br>
+    <img alt="akshaypathak01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshaypathak01&show_icons=true&theme=tokyonight&line_height=40" />
+    <img alt="akshaypathak01's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypathak01&theme=tokyonight" />
 </p>
