@@ -44,5 +44,3 @@
     <img alt="AkshayPathak01's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayPathak01&theme=tokyonight" />
 </p>
 
-<img src="https://githubmemory.com/@AkshayPathak01"/>
-
