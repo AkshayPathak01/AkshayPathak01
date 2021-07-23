@@ -43,3 +43,6 @@
     <img alt="AkshayPathak01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkshayPathak01&show_icons=true&theme=tokyonight&line_height=40" />
     <img alt="AkshayPathak01's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayPathak01&theme=tokyonight" />
 </p>
+
+<img align="right" alt="My Coding Life" src="https://githubmemory.com/@AkshayPathak01" width="500" >
+
