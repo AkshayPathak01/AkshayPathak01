@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **DSA, CS core subjects, Flutter, Dart**
 
-- 📫 How to reach me **Ping me at pathak.akshay.1520@gmail.com**
+- 📫 Ping me **pathak.akshay.1520@gmail.com**
 
 
 
