@@ -13,7 +13,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Akshay Pathak | LinkedIn" width="70px" height="22px" src="https://img.shields.io/badge/-LinkedIN-black?logo=linkedin&logoColor=white&style=plastic" />](https://www.linkedin.com/in/akshay--pathak/) [<img align="left" alt="Akshay Pathak | Instagram" width="70px" height="22px" src="https://img.shields.io/badge/-Instagram-black?logo=instagram&logoColor=white&style=plastic" />](https://www.instagram.com/akshaypathak96K/) [<img align="left" alt="Akshay Pathak | Leetcode" width="70px" height="22px" src="https://img.shields.io/badge/-Leetcode-black?logo=leetcode&logoColor=white&style=plastic" />](https://leetcode.com/AkshayPathak/)
+[<img align="left" alt="Akshay Pathak | LinkedIn" width="70px" height="22px" src="https://img.shields.io/badge/-LinkedIN-black?logo=linkedin&logoColor=white&style=plastic" />](https://www.linkedin.com/in/akshay--pathak/)  [<img align="left" alt="Akshay Pathak | Leetcode" width="70px" height="22px" src="https://img.shields.io/badge/-Leetcode-black?logo=leetcode&logoColor=white&style=plastic" />](https://leetcode.com/AkshayPathak/)
 <br>
 
 
